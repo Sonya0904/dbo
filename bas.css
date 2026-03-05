@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    margin: 10 px 20px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+body{
+   background: rgb(200, 185, 165);
+}
